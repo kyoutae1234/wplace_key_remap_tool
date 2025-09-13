@@ -1,5 +1,5 @@
 # wplace_key_remap_tool
-Adds paint/close hotkey(Q, E), redirects color picker to W key
+A Tampermonkey userscript that adds paint/close hotkeys (Q, E) and redirects the color picker to the W key.
 
 ### Disclaimer
 By using this tool, you acknowledge that it is provided *as-is* without any warranty of any kind.  
