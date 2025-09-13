@@ -8,5 +8,5 @@ You assume full responsibility for any risks associated with installing or runni
 
 ### Key Maps
 - Q: Paint
-- W: Color Picker
-- E: Close Paint Window
+- R: Color Picker
+- W: Close Paint Window
