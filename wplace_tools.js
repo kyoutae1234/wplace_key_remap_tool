@@ -11,9 +11,9 @@
 
 (function () {
   const PAINT_HOTKEY = { code: 'KeyQ', alt: false, ctrl: false, shift: false };
-  const CLOSE_HOTKEY = { code: 'KeyE', alt: false, ctrl: false, shift: false };
+  const CLOSE_HOTKEY = { code: 'KeyW', alt: false, ctrl: false, shift: false };
   const TEXT = 'Paint';
-  const KEYMAP = { 'KeyW': 'KeyI' };
+  const KEYMAP = { 'KeyR': 'KeyI' };
   const CLOSE_PATH_D = 'm256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z';
 
   const isTypingTarget = el =>
